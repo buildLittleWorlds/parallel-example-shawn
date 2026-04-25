@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Parallel Example: Style Fidelity Grid
 
 This packet models how an image-generation and art-style interest could become a research journal and paper-lite draft. It is adjacent to art-style control work, but it does not describe the student's actual project.

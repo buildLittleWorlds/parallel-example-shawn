@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Research Journal: Style Fidelity Grid
 
 ## Week 1 - Style words are powerful

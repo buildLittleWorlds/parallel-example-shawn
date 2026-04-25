@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Style Fidelity Grid: Comparing General-Purpose and Style-Tuned Image Models
 
 ## Abstract
